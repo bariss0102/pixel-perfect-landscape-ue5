@@ -5,7 +5,7 @@ A custom HD-2D material workflow for Unreal Engine designed to combine low-resol
 
 ---
 
-## 🛠️ Requirements & Compatibility
+## Requirements & Compatibility
 
 * **Tested Engine Version:** Unreal Engine 5.8
 * **Compatibility:** Designed to work across any 5.X release and should be fully compatible with late 4.X releases (4.26+).
@@ -13,7 +13,7 @@ A custom HD-2D material workflow for Unreal Engine designed to combine low-resol
 
 ---
 
-## 🚀 Quick Setup & Installation
+## Quick Setup & Installation
 
 Release files will be coming later.
 
@@ -24,7 +24,7 @@ Release files will be coming later.
 
 ---
 
-## 📐 Best Practices & Guidelines
+## Best Practices & Guidelines
 
 To achieve crisp pixel grid alignment and avoid rendering artifacts, follow these asset setup guidelines:
 
@@ -34,7 +34,7 @@ To achieve crisp pixel grid alignment and avoid rendering artifacts, follow thes
 
 ---
 
-## 📜 Third-Party Licenses & Attribution
+## Third-Party Licenses & Attribution
 
 This project bundles lightweight sample assets for demonstration purposes. Relevant third-party licenses apply:
 
