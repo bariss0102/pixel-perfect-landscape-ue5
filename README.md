@@ -15,8 +15,6 @@ A custom HD-2D material workflow for Unreal Engine designed to combine low-resol
 
 ## Quick Setup & Installation
 
-Release files will be coming later.
-
 1. **Download** the project source or release `.zip`.
 2. Open your target Unreal Engine project directory in your file explorer.
 3. Copy the contents of the `Content/` folder from this repository directly into your project's `Content/` folder.
